@@ -23,17 +23,180 @@ The following scores and recordings are courtesy of the student composers. The r
 
 The work-in-progress scores represent the students' work at a point midway through the compositional process.
 
-| STUDENTS | SONATA FORM MOVEMENTS | PROKOFIEV IMITATIONS |
-| --- | --- | --- |
-| WORK-IN-PROGRESS SCORES | AUDIO RECORDINGS |
-| --- | --- |
-| Student 1 | ([MP3 - 5.3MB]({{< baseurl >}}/resources/quartet1)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw01)) | ([MP3]({{< baseurl >}}/resources/fugitives1)) |
-| Student 2 | ([MP3 - 8.3MB]({{< baseurl >}}/resources/quartet2)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw02)) | ([MP3 - 1.0MB]({{< baseurl >}}/resources/fugitives2)) |
-| Student 3 | ([MP3 - 6.5MB]({{< baseurl >}}/resources/quartet3)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw03)) | ([MP3]({{< baseurl >}}/resources/fugitives3)) |
-| Student 4 | ([MP3 - 6.4MB]({{< baseurl >}}/resources/quartet4)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw04)) | ([MP3 - 2.0MB]({{< baseurl >}}/resources/fugitives4)) |
-| Student 5 | ([MP3 - 8.1MB]({{< baseurl >}}/resources/quartet5)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw05)) | ([MP3]({{< baseurl >}}/resources/fugitives5)) |
-| Student 6 | ([MP3 - 5.4MB]({{< baseurl >}}/resources/quartet6)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw06)) | ([MP3 - 1.6MB]({{< baseurl >}}/resources/fugitives6)) |
-| Student 7 | ([MP3 - 8.1MB]({{< baseurl >}}/resources/quartet7)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw07)) | ([MP3 - 1.9MB]({{< baseurl >}}/resources/fugitives7)) |
-| Student 8 | ([MP3 - 5.0MB]({{< baseurl >}}/resources/quartet8)) | &nbsp; | ([MP3 - 1.2MB]({{< baseurl >}}/resources/fugitives8)) |
-| Student 9 | ([MP3 - 7.6MB]({{< baseurl >}}/resources/quartet9)) | &nbsp; | ([MP3 - 1.6MB]({{< baseurl >}}/resources/fugitives9)) |
-| Student 10 | ([MP3 - 6.4MB]({{< baseurl >}}/resources/quartet10)) | &nbsp; | ([MP3 - 1.8MB]({{< baseurl >}}/resources/fugitives10))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+STUDENTS
+{{< thclose >}}
+{{< thopen >}}
+SONATA FORM MOVEMENTS
+{{< thclose >}}
+{{< thopen >}}
+PROKOFIEV IMITATIONS
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+WORK-IN-PROGRESS SCORES
+{{< thclose >}}
+{{< thopen >}}
+AUDIO RECORDINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Student 1
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 5.3MB]({{< baseurl >}}/resources/quartet1))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw01))
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3]({{< baseurl >}}/resources/fugitives1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Student 2
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 8.3MB]({{< baseurl >}}/resources/quartet2))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw02))
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 1.0MB]({{< baseurl >}}/resources/fugitives2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Student 3
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 6.5MB]({{< baseurl >}}/resources/quartet3))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw03))
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3]({{< baseurl >}}/resources/fugitives3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Student 4
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 6.4MB]({{< baseurl >}}/resources/quartet4))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw04))
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 2.0MB]({{< baseurl >}}/resources/fugitives4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Student 5
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 8.1MB]({{< baseurl >}}/resources/quartet5))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw05))
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3]({{< baseurl >}}/resources/fugitives5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Student 6
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 5.4MB]({{< baseurl >}}/resources/quartet6))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw06))
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 1.6MB]({{< baseurl >}}/resources/fugitives6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Student 7
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 8.1MB]({{< baseurl >}}/resources/quartet7))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw07))
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 1.9MB]({{< baseurl >}}/resources/fugitives7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Student 8
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 5.0MB]({{< baseurl >}}/resources/quartet8))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 1.2MB]({{< baseurl >}}/resources/fugitives8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Student 9
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 7.6MB]({{< baseurl >}}/resources/quartet9))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 1.6MB]({{< baseurl >}}/resources/fugitives9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Student 10
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 6.4MB]({{< baseurl >}}/resources/quartet10))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 1.8MB]({{< baseurl >}}/resources/fugitives10))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
