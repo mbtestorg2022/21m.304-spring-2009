@@ -56,7 +56,7 @@ Student 1
 ([MP3 - 5.3MB]({{< baseurl >}}/resources/quartet1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw01))
+([PDF]({{< baseurl >}}/resources/mit21m_304s09_sw01))
 {{< tdclose >}}
 {{< tdopen >}}
 ([MP3]({{< baseurl >}}/resources/fugitives1))
@@ -71,7 +71,7 @@ Student 2
 ([MP3 - 8.3MB]({{< baseurl >}}/resources/quartet2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw02))
+([PDF]({{< baseurl >}}/resources/mit21m_304s09_sw02))
 {{< tdclose >}}
 {{< tdopen >}}
 ([MP3 - 1.0MB]({{< baseurl >}}/resources/fugitives2))
@@ -86,7 +86,7 @@ Student 3
 ([MP3 - 6.5MB]({{< baseurl >}}/resources/quartet3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw03))
+([PDF]({{< baseurl >}}/resources/mit21m_304s09_sw03))
 {{< tdclose >}}
 {{< tdopen >}}
 ([MP3]({{< baseurl >}}/resources/fugitives3))
@@ -101,7 +101,7 @@ Student 4
 ([MP3 - 6.4MB]({{< baseurl >}}/resources/quartet4))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw04))
+([PDF]({{< baseurl >}}/resources/mit21m_304s09_sw04))
 {{< tdclose >}}
 {{< tdopen >}}
 ([MP3 - 2.0MB]({{< baseurl >}}/resources/fugitives4))
@@ -116,7 +116,7 @@ Student 5
 ([MP3 - 8.1MB]({{< baseurl >}}/resources/quartet5))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw05))
+([PDF]({{< baseurl >}}/resources/mit21m_304s09_sw05))
 {{< tdclose >}}
 {{< tdopen >}}
 ([MP3]({{< baseurl >}}/resources/fugitives5))
@@ -131,7 +131,7 @@ Student 6
 ([MP3 - 5.4MB]({{< baseurl >}}/resources/quartet6))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw06))
+([PDF]({{< baseurl >}}/resources/mit21m_304s09_sw06))
 {{< tdclose >}}
 {{< tdopen >}}
 ([MP3 - 1.6MB]({{< baseurl >}}/resources/fugitives6))
@@ -146,7 +146,7 @@ Student 7
 ([MP3 - 8.1MB]({{< baseurl >}}/resources/quartet7))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_304s09_sw07))
+([PDF]({{< baseurl >}}/resources/mit21m_304s09_sw07))
 {{< tdclose >}}
 {{< tdopen >}}
 ([MP3 - 1.9MB]({{< baseurl >}}/resources/fugitives7))
