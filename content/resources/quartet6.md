@@ -4,6 +4,7 @@ description: 'Example of student work: audio recording of a large-scale Sonata f
   movement for String Quartet. Performed by Quartet X. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-304-writing-in-tonal-forms-ii-spring-2009/e1925763a1ccba5020ef6db5421c1a98_quartet6.mp3
 file_type: audio/mpeg
+parent_uid: b8cf1df5-c5e5-5f3a-9082-81df88bb151e
 resourcetype: Other
 title: Sonata Form Movement - Student 6
 uid: e1925763-a1cc-ba50-20ef-6db5421c1a98

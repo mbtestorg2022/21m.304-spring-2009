@@ -4,6 +4,7 @@ description: 'Example of student work: music score for a short work for piano im
   Prokofiev''s "Visions Fugitives."'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-304-writing-in-tonal-forms-ii-spring-2009/63d7b925c856d00c0d633d24089b27fd_fugitives8.mp3
 file_type: audio/mpeg
+parent_uid: b8cf1df5-c5e5-5f3a-9082-81df88bb151e
 resourcetype: Other
 title: Work-in-progress Score - Student 8
 uid: 63d7b925-c856-d00c-0d63-3d24089b27fd
